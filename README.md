@@ -3,11 +3,13 @@
 ### A curious cat who loves coding, cola & open source (of course & money)
 
 <p align="left"> 
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAflydream%2FAflydream&count_bg=%230E75B6&title_bg=%23555555&title=Profile+views" alt="Aflydream Profile Views" /> 
+  <img src="https://komarev.com/ghpvc/?username=Aflydream&label=Profile views&color=0e75b6&style=flat" alt="Aflydream" /> 
 </p>
 
 <p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=Aflydream" alt="Aflydream Trophies" /></a> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Aflydream" alt="Aflydream Trophies" />
+  </a> 
 </p>
 
 - 🔭 I'm currently working on **Exploring new horizons...**
