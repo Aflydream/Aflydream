@@ -3,11 +3,13 @@
 ### A curious cat who loves coding, cola & open source (of course & money)
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Aflydream&label=Profile%20views&color=0e75b6&style=flat" alt="Aflydream" /> 
+  <img src="https://komarev.com/ghpvc/?username=Afly-dream&label=Profile%20views&color=0e75b6&style=flat" alt="Afly-dream" /> 
 </p>
 
 <p align="left">
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Afly-dream&rank_icon=github&show_icons=true&include_all_commits=true&theme=buefy)](https://github-stats-extended.vercel.app/api?username=Afly-dream&rank_icon=github&show_icons=true&include_all_commits=true&theme=buefy)
+  <a href="https://github-stats-extended.vercel.app/api?username=Afly-dream&rank_icon=github&show_icons=true&include_all_commits=true&theme=buefy">
+    <img src="https://github-stats-extended.vercel.app/api?username=Afly-dream&rank_icon=github&show_icons=true&include_all_commits=true&theme=buefy" alt="GitHub Stats" />
+  </a>
 </p>
 
 - 🔭 I'm currently working on **Exploring new horizons...**
