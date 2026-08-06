@@ -3,13 +3,11 @@
 ### A curious cat who loves coding, cola & open source (of course & money)
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Aflydream&label=Profile views&color=0e75b6&style=flat" alt="Aflydream" /> 
+  <img src="https://komarev.com/ghpvc/?username=Aflydream&label=Profile%20views&color=0e75b6&style=flat" alt="Aflydream" /> 
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Aflydream" alt="Aflydream Trophies" />
-  </a> 
+<p align="left">
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Afly-dream&rank_icon=github&show_icons=true&include_all_commits=true&theme=buefy)](https://github-stats-extended.vercel.app/api?username=Afly-dream&rank_icon=github&show_icons=true&include_all_commits=true&theme=buefy)
 </p>
 
 - 🔭 I'm currently working on **Exploring new horizons...**
